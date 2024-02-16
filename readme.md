@@ -12,3 +12,4 @@
 10. git merge rama-heroes
 11. git branch -d rama-heroes ->para borrar ramas
 12. git push -> para subir los cambios a github 
+13. git commit -am "git commit -am agregado"
